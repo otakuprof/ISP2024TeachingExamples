@@ -1,6 +1,7 @@
 package Example38;
 
 public interface CustomStack<T> {
+    // T is type parameter
 
     void push(T t);
 

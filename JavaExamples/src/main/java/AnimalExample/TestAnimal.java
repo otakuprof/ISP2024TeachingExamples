@@ -10,5 +10,6 @@ public class TestAnimal {
         Animal a = new Cat();
         Animal b = new Cow();
         a.makeSound();
+        b.makeSound();
     }
 }
